@@ -1,3 +1,3 @@
 # Trillo project
 
-Booking Application
+Landing-page Booking Application Built with HTML & SASS 
